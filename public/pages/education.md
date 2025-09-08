@@ -1,32 +1,18 @@
-# 👨‍🎓 Education
-`2021-present` [University of Lagos](https://www.unilag.edu.ng/)
-- **B.Eng.** in **Electrical and Electronics Engineering**
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.4/5.0
+## 🎓 Education  
 
+**[University of Lagos](https://unilag.edu.ng/)** | [🎓 Credential](https://example.com/unilag-credential)  
+*Bachelor of Engineering (B.Eng), Electrical & Electronics Engineering*  
+**Nov 2021 – Nov 2027 · Lagos, Nigeria**  
 
-<!-- `2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0 -->
+- **GPA:** 4.83 / 5.0  
+- **Relevant Coursework:** Mathematics, Physics, Electronics, Software Engineering, Data Structures & Algorithms, Object-Oriented Programming (OOP), Machine Learning (ML), Digital Logic Design, Computer Organization.  
+- **Activities & Societies:** Football, Board games, SEES-UNILAG Leadership  
 
-<!-- `2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
+---
 
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+**[Kibo School](https://kibo.school/)** | [🎓 Credential](https://example.com/kibo-credential)  
+*Undergraduate Diploma, Computer Science*  
+**Jul 2023 – Apr 2024**  
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0 -->
+- **Focus Areas:** Python, HTML5, Web Development, Problem-Solving, Technical Writing  
+- Gained solid foundations in computer science and software engineering principles with practical project work.  
