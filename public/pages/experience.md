@@ -1,6 +1,6 @@
 ## 💼 Experience  
 
-**Cybersecurity Intern** @ [Klemweb](https://klemweb.com) | [Credential 🔗](https://example.com/credential/klemweb)  
+**Cybersecurity Intern** @ [Klemweb](https://klemweb.com) | [Credential 🔗](https://drive.google.com/file/d/1MUq0Qq796Fz8D3Pi48Jrcfu08bCzDh-y/view)  
 _May 2025 – Aug 2025 · Remote, Nigeria_  
 
 Worked on vulnerability assessment and penetration testing (VAPT) for client infrastructures, identifying and documenting system weaknesses, and recommending effective mitigation strategies.  
@@ -14,7 +14,7 @@ Worked on vulnerability assessment and penetration testing (VAPT) for client inf
 
 ---
 
-**Cybersecurity Intern** @ [Prodigy InfoTech](https://prodigyinfotech.dev) | [Credential 🔗](https://example.com/credential/prodigy-infotech)  
+**Cybersecurity Intern** @ [Prodigy InfoTech](https://prodigyinfotech.dev) | [Credential 🔗](https://drive.google.com/file/d/1_NvIAYPP9TpR-wHo_LfyZ-J9IptI7ka3/view?usp=sharing)  
 _Oct 2024 – Nov 2024 · Remote, India_  
 
 Focused on developing cybersecurity tools and encryption utilities while strengthening applied cryptography and automation skills.  
@@ -29,7 +29,7 @@ Focused on developing cybersecurity tools and encryption utilities while strengt
 
 ---
 
-**Welfare Secretary** @ [SEES-UNILAG](https://unilag.edu.ng) | [Credential 🔗](https://example.com/credential/sees-unilag)  
+**Welfare Secretary** @ [SEES-UNILAG](https://unilag.edu.ng) | [Credential 🔗](https://drive.google.com/file/d/1no8dwERvXWS79mBMByb7nTY4raaOZK49/view?usp=sharing)  
 _Oct 2024 – Sept 2025 · On-site, Lagos State, Nigeria_  
 
 Elected student leader responsible for overseeing the welfare of Electrical/Electronics and Computer Engineering students, ensuring academic, physical, and mental wellbeing.  
