@@ -35,10 +35,12 @@ _Oct 2024 – Sept 2025 · On-site, Lagos State, Nigeria_
 Elected student leader responsible for overseeing the welfare of Electrical/Electronics and Computer Engineering students, ensuring academic, physical, and mental wellbeing.  
 
 - **Detailed achievements:**  
-  - Advocated for students’ academic, mental, and physical wellbeing.  
-  - Organized tutorial sessions, academic resources, and peer learning support.  
-  - Designed initiatives to improve health, welfare, and community engagement.  
-  - Strengthened collaboration and student engagement across the community.  
+  - Advocated for students’ academic, mental, and physical wellbeing through campaigns, resources, and peer support.  
+  - Organized tutorial sessions, updated academic resources, and launched peer-to-peer study groups.  
+  - Designed and executed initiatives to improve student health and welfare, including **SEESxTSMI Medical Outreach** and a **Mental Health Awareness Campaign**.  
+  - Facilitated career advancement opportunities through the **Coleman Cables Industrial Visit**, **NECA EdTech Hackathon**, and founded the **SEES Tech Community** for mentorship and collaboration.  
+  - Strengthened community engagement with leadership programs, IEEE outreach to secondary schools, scholarship information drives, and a structured student feedback system.  
   - Awarded **Departmental Exco of the Year 2025** for exceptional leadership.  
 
-- _**Technologies/Skills:**_ Leadership, Student Advocacy, Organization, Mentorship, Communication  
+- _**Technologies/Skills:**_ Leadership, Student Advocacy, Organization, Mentorship, Communication, Community Engagement  
+ 
