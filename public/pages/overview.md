@@ -1,100 +1,154 @@
 # 📖 Overview
 
 ## Summary
+Cybersecurity Enthusiast & Electrical/Electronics Engineering Student with hands-on experience in vulnerability assessment, penetration testing, and cloud security. Skilled in both offensive and defensive security, with strong foundations in networking, Linux, and programming (Python, C++, JavaScript). Completed industry-recognized certifications from Google, Cisco, and TryHackMe, and delivered practical projects ranging from encryption tools to cloud breach remediation. Passionate about securing systems, mentoring peers, and applying technical expertise to solve real-world problems.
 
-A Junior Software Developer/ Engineer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C++, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
-
+---
 
 ## Experience
 
-**Founding Software Developer** @ [Proace International](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
-
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  -  Empower a dedicated team of developers to craft the essential foundation of our the software product.
-  - Enhanced the security of our applications, bolstering defences for both the frontend and backend to fortify against data theft and ensure robust protection.
-  - Collaborated closely with fellow developers to craft intricate algorithms, designed flowcharts, forging a harmonious symphony of innovation.
-  - Documented phases of development and closely monitored dynamic systems
-  - Established Libraries/Tools is up to mark using recent technologies
-  - Deployed application infrastructure through the strategic orchestration of containers with the powerful K8 engine, leveraging trusted tools for containerization and virtualization.
-  - Engineered a robust CI/CD pipeline for software delivery and seamless integration.
-
-- _**Technologies used:**_ Django, TypeScript, MySQL, Python, React.js, Docker, Kubernetes, Jenkins
+**Cybersecurity Intern** @ [Klemweb](https://klemweb.com) | [🔗](https://example.com/klemweb-cert)  
+_May 2025 – Aug 2025 · Remote, Nigeria_  
+- Conducted Vulnerability Assessment and Penetration Testing (VAPT).  
+- Assisted in identifying and patching cloud/web application weaknesses.  
 
 &nbsp;
 
-**Student tutor** @ [ecxUnilag](https://ecx-unilag.github.io/finale/) _(February 2023 - present)_ 
-
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-     - Managed a process re-engineering project to improve and consolidate end-to-end service learning
-     - Restructured communication among 5 departments and cut down paperwork by 60%. 
-     - Delivered unwavering, in-depth guidance to students in Python programming, covering Object-Oriented, Programming and Data Structures and Algorithms.
+**Cybersecurity Intern** @ [Prodigy InfoTech](https://prodigyinfotech.dev) | [🔗](https://example.com/prodigy-cert)  
+_Oct 2024 – Nov 2024 · Remote, India_  
+- Built and deployed cybersecurity tools:  
+  - Caesar Cipher encryption/decryption program  
+  - Image encryption & decryption tool  
+  - Password strength analyzer  
+  - Educational keylogger  
+- Gained experience in Python automation and applied cryptography.  
 
 &nbsp;
 
-**SDE Intern** @ [Zuri/HNG](https://home.kpmg/) _(March 2020 - August 2021)_
+**Welfare Secretary** @ [SEES-UNILAG](https://unilag.edu.ng) | [🔗](https://example.com/sees-cert)  
+_Oct 2024 – Sept 2025 · On-site, Lagos State, Nigeria_  
+- Oversaw the welfare of Electrical/Electronics and Computer Engineering students.  
+- Advocated for students’ academic, mental, and physical wellbeing.  
+- Organized tutorial sessions, academic resources, and peer learning support.  
+- Designed initiatives to improve health, welfare, and community engagement.  
 
-
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-
-- Detailed achievements:
-  - Design client-side and server-side architecture
-  - Tested software to ensure responsiveness and efficiency
-  - Improved security by adopting the zero-trust authentication model. 
-  - Integrated software components and third-party programs.
-  - Developed responsive, interactive dynamic user interfaces
+---
 
 ## Education
 
-# 👨‍🎓 Education
-`2021-present` [University of Lagos](https://www.unilag.edu.ng/)
-- **B.Eng.** in **Electrical and Electronics Engineering**
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.4/5.0
+**University of Lagos** | [🔗](https://example.com/unilag-transcript)  
+_Nov 2021 – Nov 2027_  
+- **B.Eng. in Electrical and Electronics Engineering**  
+- GPA: 4.83 / 5.0  
+- Relevant Coursework: Mathematics, Physics, Electronics, Software Engineering, Data Structures & Algorithms, Object-Oriented Programming, Machine Learning  
+- Extra Activities: Football, Board games  
 
-<!-- `2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
+&nbsp;
 
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
+**Kibo School** | [🔗](https://example.com/kibo-cert)  
+_Jul 2023 – Apr 2024_  
+- **Undergraduate Diploma in Computer Science**  
+- Skills: Python, HTML5, Computer Science Fundamentals  
 
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0 -->
+---
 
 ## Skills
 
-### General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+### General Skill Set
+- Vulnerability Assessment & Penetration Testing  
+- Cloud Security (Google Cloud, SIEM, Firewalls)  
+- Incident Detection & Response  
+- Network Engineering & Troubleshooting  
 
-### Programming languages
+### Programming Languages
+- Python  
+- C++  
+- JavaScript / React.js  
+- SQL  
 
-- Python
-  - Django/ Django rest framework
-- JavaScript/TypeScript
-  - React.js
-<!-- - T-SQL
-- C# .NET
-- Go -->
-- C++
-<!-- - Java
-- VB.NET/VBA -->
+### Tools & Frameworks
+- Burp Suite, Nmap, Hydra, Metasploit  
+- Linux CLI, Git/GitHub  
+- Docker (basic)  
 
-## Certificates
-- Data Structure and Algorithm [(Udemy)](https://docs.google.com/document/d/1tYeHPRvwJ780GfZ2Simt7r9wLG_GJyU_NmYi_bhgpEY/edit?usp=sharing).
-<!-- 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them.  -->
+### Soft Skills
+- Communication  
+- Problem-solving  
+- Adaptability  
+- Teamwork  
+- Analytical mindset  
+- Work ethics  
+- Leadership  
 
-## Languages
-**English**: Fluent
-**Yoruba**: Native
+---
+
+## Certificates  
+
+- **Google Cybersecurity Professional Certificate** (Coursera, 2024) [🔗](https://coursera.org/example)  
+- **Google Cloud Cybersecurity Certificate** (Coursera, 2025) [🔗](https://coursera.org/example)  
+- **TryHackMe – Jr Penetration Tester** (2025) [🔗](https://tryhackme.com/example)  
+- **TryHackMe – Web Fundamentals** (2025) [🔗](https://tryhackme.com/example)  
+- **TryHackMe – Pre-Security** (2025) [🔗](https://tryhackme.com/example)  
+- **TryHackMe – Pathway Beginner** (2025) [🔗](https://tryhackme.com/example)  
+- **TryHackMe – Advent of Cyber 2024** (2024) [🔗](https://tryhackme.com/example)  
+- **Cisco – Network Technician Career Path** (2024) [🔗](https://cisco.com/example)  
+- **Cisco – Junior Cybersecurity Analyst Career Path** (2025) [🔗](https://cisco.com/example)  
+- **Cisco – Network Defense, Endpoint Security, Cyber Threat Management** (2025) [🔗](https://cisco.com/example)  
+- **HP LIFE – Effective Leadership** (2025) [🔗](https://hp.com/example)  
+
+---
+
+## Projects  
+
+- **Net Sec Challenge (TryHackMe)** [🔗](https://tryhackme.com/example)  
+  Completed full challenge room: port scanning, enumeration, Hydra brute-force, service fingerprinting, FTP exploitation, and multi-flag capture.  
+
+- **Web Penetration Testing Labs** [🔗](https://tryhackme.com/example)  
+  Practiced exploitation of XSS, SQL Injection, IDOR, XXE, and more using Burp Suite and custom payloads.  
+
+- **Google Cloud Capstone – Responding to Data Breach** [🔗](https://cloud.google.com/example)  
+  Hardened a retail cloud system by remediating VM, firewall, and storage misconfigurations, restoring compliance.  
+
+- **Caesar Cipher Tool** [🔗](https://github.com/jesudeyi/PRODIGY_CS_01)  
+  Python program to encrypt/decrypt text using Caesar cipher.  
+
+- **Image Encryption/Decryption Tool** [🔗](https://github.com/jesudeyi/example)  
+  Applied pixel permutation with keys for image security.  
+
+- **Password Strength Analyzer** [🔗](https://github.com/jesudeyi/PRODIGY_CS_03)  
+  Python-based password complexity checker (length, special chars, entropy).  
+
+- **Python Keylogger (Educational)** [🔗](https://github.com/jesudeyi/example)  
+  Captured and logged keystrokes with key-mapping for research/learning.  
+
+- **Other Applied Labs – Cloud & Reverse Engineering CTFs** [🔗](https://github.com/jesudeyi/example)  
+  Cloud vulnerability remediation labs (XSS patching, IAM hardening), Reverse Engineering CTF puzzles (AES timestamp + XOR flaw exploitation).  
+
+---
+
+## Competitions  
+
+- **GDGOC UNILAG HackCon 2025 – CTF Challenge** [🔗](https://example.com/gdgoc2025)  
+- **Reply Cyber Security Challenge 2025** [🔗](https://reply.com/cyber-challenge)  
+- **TryHackMe – Advent of Cyber 2024** [🔗](https://tryhackme.com/advent2024)  
+- **Squad Hackathon 2025 – First Runner-Up** [🔗](https://example.com/squad2025)  
+- **A2SV AI for Impact Hackathon 2024 – Quarterfinalist** [🔗](https://example.com/a2sv2024)  
+- **Cavista Hackathon 2024 – 3rd Place** [🔗](https://example.com/cavista2024)  
+
+---
+
+## Awards  
+
+- 🥇 Gold Medal – Football (SEES-UNILAG Tournament 2025)  
+- 🥇 Gold Medal – Connect 4 (SEES Tournament, 2025)  
+- 🥇 Gold Medal – Connect 4 (ULES Faculty Games, 2025)  
+- 🥈 Silver Medal – Draughts (SEES Tournament, 2025)  
+- 🏆 Departmental Exco of the Year (2025) – Recognized for exceptional student leadership  
+- 🎖️ 3x Student of the Year Nominee (2023, 2024, 2025)  
+
+---
+
+## Languages  
+
+- **English**: Fluent  
+- **Yoruba**: Native  
