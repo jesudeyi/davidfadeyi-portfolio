@@ -1,39 +1,44 @@
-# 👨‍💻 Experience
+## 💼 Experience  
 
-**Founding Software Developer** @ [Proace International](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Cybersecurity Intern** @ [Klemweb](https://klemweb.com) | [Credential 🔗](https://example.com/credential/klemweb)  
+_May 2025 – Aug 2025 · Remote, Nigeria_  
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  -  Empower a dedicated team of developers to craft the essential foundation of our the software product.
-  - Enhanced the security of our applications, bolstering defences for both the frontend and backend to fortify against data theft and ensure robust protection.
-  - Collaborated closely with fellow developers to craft intricate algorithms, designed flowcharts, forging a harmonious symphony of innovation.
-  - Documented phases of development and closely monitored dynamic systems
-  - Established Libraries/Tools is up to mark using recent technologies
-  - Deployed application infrastructure through the strategic orchestration of containers with the powerful K8 engine, leveraging trusted tools for containerization and virtualization.
-  - Engineered a robust CI/CD pipeline for software delivery and seamless integration.
+Worked on vulnerability assessment and penetration testing (VAPT) for client infrastructures, identifying and documenting system weaknesses, and recommending effective mitigation strategies.  
 
-- _**Technologies used:**_ Django, TypeScript, MySQL, Python, React.js, Docker, Kubernetes, Jenkins
+- **Detailed achievements:**  
+  - Conducted vulnerability scans on web/cloud applications.  
+  - Executed penetration tests to uncover exploitable flaws.  
+  - Provided structured remediation reports to improve security posture.  
 
-&nbsp;
+- _**Technologies/Skills:**_ VAPT, Web Application Security, Cloud Security, Reporting  
 
-**Student tutor** @ [ecxUnilag](https://ecx-unilag.github.io/finale/) _(February 2023 - present)_ 
+---
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-     - Managed a process re-engineering project to improve and consolidate end-to-end service learning
-     - Restructured communication among 5 departments and cut down paperwork by 60%. 
-     - Delivered unwavering, in-depth guidance to students in Python programming, covering Object-Oriented, Programming and Data Structures and Algorithms.
+**Cybersecurity Intern** @ [Prodigy InfoTech](https://prodigyinfotech.dev) | [Credential 🔗](https://example.com/credential/prodigy-infotech)  
+_Oct 2024 – Nov 2024 · Remote, India_  
 
-&nbsp;
+Focused on developing cybersecurity tools and encryption utilities while strengthening applied cryptography and automation skills.  
 
-**SDE Intern** @ [Zuri/HNG](https://home.kpmg/) _(March 2020 - August 2021)_
+- **Detailed achievements:**  
+  - Built a Caesar Cipher tool for encryption/decryption.  
+  - Designed an Image Encryption/Decryption utility using pixel permutation.  
+  - Developed a Password Strength Analyzer with complexity checks.  
+  - Implemented an educational keylogger to demonstrate keystroke logging concepts.  
 
+- _**Technologies/Skills:**_ Python, Cryptography, Automation, Cybersecurity Tools  
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+---
 
-- Detailed achievements:
-  - Design client-side and server-side architecture
-  - Tested software to ensure responsiveness and efficiency
-  - Improved security by adopting the zero-trust authentication model. 
-  - Integrated software components and third-party programs.
-  - Developed responsive, interactive dynamic user interfaces
+**Welfare Secretary** @ [SEES-UNILAG](https://unilag.edu.ng) | [Credential 🔗](https://example.com/credential/sees-unilag)  
+_Oct 2024 – Sept 2025 · On-site, Lagos State, Nigeria_  
+
+Elected student leader responsible for overseeing the welfare of Electrical/Electronics and Computer Engineering students, ensuring academic, physical, and mental wellbeing.  
+
+- **Detailed achievements:**  
+  - Advocated for students’ academic, mental, and physical wellbeing.  
+  - Organized tutorial sessions, academic resources, and peer learning support.  
+  - Designed initiatives to improve health, welfare, and community engagement.  
+  - Strengthened collaboration and student engagement across the community.  
+  - Awarded **Departmental Exco of the Year 2025** for exceptional leadership.  
+
+- _**Technologies/Skills:**_ Leadership, Student Advocacy, Organization, Mentorship, Communication  
