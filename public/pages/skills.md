@@ -1,43 +1,31 @@
-# 💻 Skills
+## 🛠 Skills  
 
-## General Skills
-- Systems Architecture/Design
-- Web Development (Frontend & Backend)
-- Django
-- Django rest framework
-- React.js
-- RabbitMQ
-- Celery
-- Nginx
-- ElasticSearch
-- Agile and Scrum
-- BDD/TDD
-- SEO
+### General Skill Set  
+- Cybersecurity (Offensive & Defensive Security)  
+- Vulnerability Assessment & Penetration Testing (VAPT)  
+- Network Engineering & Troubleshooting  
+- Cloud Security (Google Cloud, SIEM, SOC practices)  
+- Encryption & Automation  
+- Leadership & Student Advocacy  
 
-<!-- - Desktop App Development -->
+### Programming Languages  
+- **Python** (Scripting, Automation, Cryptography Tools)  
+- **C++** (System-level programming, OOP)  
+- **JavaScript/TypeScript** (Web Security, Frontend/Backend)  
 
-## Programming languages
-<!-- - C# .NET -->
-- Python
-- JavaScript/TypeScript
-- C++
-<!-- - T-SQL
-- Go -->
-<!-- - Java
-- VB.NET/VBA -->
+### Frameworks & Tools  
+- **Web Security:** Burp Suite, OWASP practices  
+- **Pentesting & Exploitation:** Nmap, Hydra, Metasploit  
+- **SIEM & Monitoring:** Splunk, Google Cloud Security Command Center  
+- **Version Control:** Git, GitHub  
+- **Linux Systems:** Bash scripting, system administration  
+- **Databases:** SQL (security hardening, queries)  
 
-## Databases
-<!-- - MSSQL -->
-- PostgreSQL
-- MySQL
-- Redis
-<!-- - SQLite -->
-
-## Cloud
-<!-- - Azure
-- GCP -->
-- Heroku
-- Digital Ocean
-
-## Version controls
-- Git
+### Soft Skills  
+- Communication  
+- Problem-Solving  
+- Adaptability  
+- Teamwork  
+- Analytical Mindset  
+- Strong Work Ethics  
+- Leadership  
