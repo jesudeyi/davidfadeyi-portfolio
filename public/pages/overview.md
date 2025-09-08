@@ -41,14 +41,14 @@ _Nov 2021 – Nov 2027_
 - **B.Eng. in Electrical and Electronics Engineering**  
 - GPA: 4.83 / 5.0  
 - Relevant Coursework: Mathematics, Physics, Electronics, Software Engineering, Data Structures & Algorithms, Object-Oriented Programming, Machine Learning  
-- Extra Activities: Football, Board games  
+- Extra Activities: Football, Board games, Leadership & Community Management
 
 &nbsp;
 
 **Kibo School** | [🔗](https://example.com/kibo-cert)  
 _Jul 2023 – Apr 2024_  
 - **Undergraduate Diploma in Computer Science**  
-- Skills: Python, HTML5, Computer Science Fundamentals  
+- Skills: Python Programming, Web Development, Computer Science Fundamentals, Techincal Writing
 
 ---
 
