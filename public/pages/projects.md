@@ -1,5 +1,12 @@
 ## 💻 Projects  
 
+**Web Penetration Testing Lab** (Ethical Hacking Simulation – 2025) | [🔗 Credential](https://example.com/webpentest)  
+Conducted end-to-end web application assessment using Burp Suite, SQL injection, XSS, and IDOR testing.  
+- Discovered live vulnerabilities, patched flaws, and verified remediation.  
+- **Impact:** Built confidence in web app security assessments and OWASP Top 10 exploitation/mitigation techniques.  
+
+---
+
 **Network Engineering & Troubleshooting Project** (Cisco Packet Tracer Labs – 2024/2025) | [🔗 Credential](https://example.com/network-project)  
 Completed multiple Cisco Packet Tracer simulations that strengthened practical networking and troubleshooting expertise.  
 
@@ -12,13 +19,6 @@ Completed multiple Cisco Packet Tracer simulations that strengthened practical n
   - Configure Basic Wireless Security — set up Wi-Fi encryption and authentication.  
 
 - **Impact:** Strengthened core competencies in network design, troubleshooting, access control, and wireless security, while applying industry-standard practices for network mapping and documentation.  
-
----
-
-**Web Penetration Testing Lab** (Ethical Hacking Simulation – 2025) | [🔗 Credential](https://example.com/webpentest)  
-Conducted end-to-end web application assessment using Burp Suite, SQL injection, XSS, and IDOR testing.  
-- Discovered live vulnerabilities, patched flaws, and verified remediation.  
-- **Impact:** Built confidence in web app security assessments and OWASP Top 10 exploitation/mitigation techniques.  
 
 ---
 
