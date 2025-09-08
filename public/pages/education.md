@@ -1,6 +1,6 @@
 ## 🎓 Education  
 
-**[University of Lagos](https://unilag.edu.ng/)** | [🎓 Credential](https://example.com/unilag-credential)  
+**[University of Lagos](https://unilag.edu.ng/)** | [🎓 Credential](https://drive.google.com/drive/folders/1uzE95YlDwHeg5O_R6uS7AMKWGJxTgLoc?usp=sharing)  
 *Bachelor of Engineering (B.Eng), Electrical & Electronics Engineering*  
 **Nov 2021 – Nov 2027 · Lagos, Nigeria**  
 
@@ -10,7 +10,7 @@
 
 ---
 
-**[Kibo School](https://kibo.school/)** | [🎓 Credential](https://example.com/kibo-credential)  
+**[Kibo School](https://kibo.school/)** 
 *Undergraduate Diploma, Computer Science*  
 **Jul 2023 – Apr 2024**  
 
