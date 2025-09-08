@@ -1,13 +1,13 @@
 ## 💻 Projects  
 
-**Web Penetration Testing Lab** (Ethical Hacking Simulation – 2025) | [🔗 Credential](https://example.com/webpentest)  
+**Web Penetration Testing Lab** (Ethical Hacking Simulation – 2025) | [🔗](https://tryhackme.com/r/Jesudeyi/badges/owasp-10?utm_source=twitter&utm_medium=social&utm_campaign=social_share&utm_content=badge)  
 Conducted end-to-end web application assessment using Burp Suite, SQL injection, XSS, and IDOR testing.  
 - Discovered live vulnerabilities, patched flaws, and verified remediation.  
 - **Impact:** Built confidence in web app security assessments and OWASP Top 10 exploitation/mitigation techniques.  
 
 ---
 
-**Network Engineering & Troubleshooting Project** (Cisco Packet Tracer Labs – 2024/2025) | [🔗 Credential](https://example.com/network-project)  
+**Network Engineering & Troubleshooting Project** (Cisco Packet Tracer Labs – 2024/2025) | [🔗 Credential](https://www.credly.com/badges/b26541fb-26c3-4951-be8c-5035a4da4d19/public_url)  
 Completed multiple Cisco Packet Tracer simulations that strengthened practical networking and troubleshooting expertise.  
 
 - **Key Labs Included:**  
@@ -22,7 +22,7 @@ Completed multiple Cisco Packet Tracer simulations that strengthened practical n
 
 ---
 
-**Google Cloud Cybersecurity Capstone** (Responding & Recovering from a Data Breach – 2025) | [🔗 Credential](https://example.com/cloudcapstone)  
+**Google Cloud Cybersecurity Capstone** (Responding & Recovering from a Data Breach – 2025) | [🔗 Credential](https://www.linkedin.com/posts/david-fadeyi_capstone-project-completed-google-cloud-activity-7351007869690863616-V3fG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADzJq6kBUIJlb8iCQgZDwRMGttk7qzTiORI)  
 Simulated a breach at a cloud-hosted retail company, remediating misconfigured firewalls, VMs, and exposed buckets.  
 - Applied Google Cloud Security Command Center to monitor, secure, and validate compliance (PCI DSS).  
 - **Impact:** Reinforced ability to manage large-scale incidents in the cloud, blending incident response with compliance assurance.  
@@ -36,7 +36,7 @@ Implemented classic Caesar cipher with user-controlled encryption/decryption key
 
 ---
 
-**Image Encryption & Decryption Tool** (Python Security Utility – 2024) | [🔗 GitHub](https://github.com/jesudeyi/example)  
+**Image Encryption & Decryption Tool** (Python Security Utility – 2024) | [🔗 GitHub](https://github.com/jesudeyi/PRODIGY_CS_02)  
 Designed a pixel permutation algorithm with Pillow, NumPy, and Tkinter.  
 - Secured image confidentiality by encrypting pixel arrangements with a key.  
 - **Impact:** Applied cryptography to multimedia, bridging security concepts with user-friendly interfaces.  
@@ -50,7 +50,7 @@ Automated password checks for length, character variety, and entropy.
 
 ---
 
-**Python Keylogger (Educational Only)** (Security Awareness Tool – 2024) | [🔗 GitHub](https://github.com/jesudeyi/example)  
+**Python Keylogger (Educational Only)** (Security Awareness Tool – 2024) | [🔗 GitHub](https://github.com/jesudeyi/PRODIGY_CS_01)  
 Built a keystroke logger with pynput, processing special key mapping for readability.  
 - Logged captured keys into text files for later analysis.  
 - **Impact:** Strengthened understanding of offensive security concepts and the importance of endpoint defense.  
