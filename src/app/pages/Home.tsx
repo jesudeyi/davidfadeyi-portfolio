@@ -46,7 +46,7 @@ export default function Home({ setSelectedIndex }: Props) {
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
               {/* <Typography variant="h3">{process.env.REACT_APP_NAME}</Typography> */}
-              <Typography variant="h3">{"Samad Aderinto"}</Typography>
+              <Typography variant="h3">{"David Fadeyi"}</Typography>
             </Grid>
             <Grid
               display="flex"
